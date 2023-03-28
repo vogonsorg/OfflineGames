@@ -1,0 +1,702 @@
+N:\Emus.txt
+N:\EPIC
+N:\GOG
+N:\Origin
+N:\Steam
+N:\Ubisoft
+N:\EPIC\GoldBerg EOS
+N:\EPIC\Nemirtingas Epic Emulator
+N:\EPIC\nEOS
+N:\EPIC\GoldBerg EOS\Goldberg_EOS_Emu_v0.0.2.zip
+N:\EPIC\Nemirtingas Epic Emulator\EOSSDK-Win32-Shipping.7z
+N:\EPIC\Nemirtingas Epic Emulator\EOSSDK-Win32-Shipping.dll
+N:\EPIC\Nemirtingas Epic Emulator\EOSSDK-Win64-Shipping.7z
+N:\EPIC\Nemirtingas Epic Emulator\EOSSDK-Win64-Shipping.dll
+N:\EPIC\Nemirtingas Epic Emulator\link.txt
+N:\EPIC\Nemirtingas Epic Emulator\Old
+N:\EPIC\Nemirtingas Epic Emulator\Old\artifacts.zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\EOSSDK-Win64-Shipping.dll
+N:\EPIC\Nemirtingas Epic Emulator\Old\epic-v20220312.7z
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old3
+N:\EPIC\Nemirtingas Epic Emulator\Old\OLD4
+N:\EPIC\Nemirtingas Epic Emulator\Old\Possibly latest
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\artifacts (2).zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\artifacts.zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\NemirtingasEpicEmu.7z
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\nemirtingas_epic_emu-v0.7.0.zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\old
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\OLD1
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\old\NemirtingasEpicEmu.7z
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\OLD1\NemirtingasEpicEmu.7z
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old2\OLD1\nemirtingas_epic_emu-v0.8.5.zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\Old3\artifacts.zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\OLD4\artifacts.zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\Possibly latest\EOSSDK-Win64-Shipping
+N:\EPIC\Nemirtingas Epic Emulator\Old\Possibly latest\EOSSDK-Win64-Shipping.zip
+N:\EPIC\Nemirtingas Epic Emulator\Old\Possibly latest\EOSSDK-Win64-Shipping\EOSSDK-Win64-Shipping.dll
+N:\EPIC\nEOS\Borderlands 2
+N:\EPIC\nEOS\Latest
+N:\EPIC\nEOS\Borderlands 2\Neos.rar
+N:\EPIC\nEOS\Latest\nEOS-0.9a.zip
+N:\GOG\Galaxy.7z
+N:\GOG\Galaxy64.7z
+N:\Origin\Anadius Origin Emulator and Unwrap
+N:\Origin\Anadius Origin Emulator and Unwrap\example config + tools.7z
+N:\Origin\Anadius Origin Emulator and Unwrap\Old
+N:\Origin\Anadius Origin Emulator and Unwrap\Origin emu (v1.4.4.0).7z
+N:\Origin\Anadius Origin Emulator and Unwrap\origin-unwrapper v1.1.4 source.7z
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4.7z
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Latest
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Read.txt
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Latest\example config + tools.7z
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Latest\Origin emu (v1.4.2.0).7z
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\example config + tools
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\example config + tools.7z
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\Origin emu (v1.2.0.0)
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\Origin emu (v1.2.0.0).7z
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\Origin emu (v1.2.0.1) test version.7z
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\example config + tools\achievements_formatter.html
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\example config + tools\anadius.cfg
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\example config + tools\crack config info.txt
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\example config + tools\download_denuvo_token.html
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\example config + tools\get_info_from_license.html
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\Origin emu (v1.2.0.0)\anadius32.dll
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\Origin emu (v1.2.0.0)\anadius32online.dll
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\Origin emu (v1.2.0.0)\anadius64.dll
+N:\Origin\Anadius Origin Emulator and Unwrap\Old\Requires Modification of game exe\Anadius Origin Emulator\Old\Origin emu (v1.2.0.0)\anadius64online.dll
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\data.yaml
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\origin_unwrapper.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\bf4 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\bf4.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\bf4webhelper unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\BF4WebHelper.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\BF4X86WebHelper unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\BF4X86WebHelper.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\bf4_x86 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\bf4_x86.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\BFLauncher unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\BFLauncher.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\BFLauncher_x86 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\BFLauncher_x86.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Not Needed
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Online Only
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\PVZBattleforNeighborville unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\PVZBattleforNeighborville.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\bf1 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\bfv unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\GridLegends unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\GridLegends.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\Madden22 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\Madden22.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\Madden22_Trial unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\Madden22_Trial.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\NeedForSpeedHeat unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\NeedForSpeedHeat.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\NeedForSpeedHeatTrial unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\NeedForSpeedHeatTrial.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\NFS11Remastered.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\starwarsbattlefrontii unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\starwarsbattlefrontii.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\starwarsbattlefrontii_trial.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\starwarssquadrons unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Denuvo\starwarssquadrons.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\TS4 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\TS4.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\TS4_x64 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\TS4_x64.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffect1 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffect1.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffect2 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffect2.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffect3 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffect3.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffectLauncher unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Needs Emu\Not Needed\MassEffectLauncher.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Not Needed\MassEffectAndromeda unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Not Needed\MassEffectAndromeda.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Not Needed\MassEffectAndromedaTrial.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Not Needed\Sims2EP9 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Not Needed\Sims2EP9.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Online Only\Launch_RocketArena.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Online Only\r5apex unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Online Only\r5apex.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Online Only\r5apex_dx12 unwrapped.exe
+N:\Origin\Anadius Origin Emulator and Unwrap\origin_unwrapper v1.1.4\Not Working\Online Only\r5apex_dx12.exe
+N:\Steam\gcfscape166.exe
+N:\Steam\Goldberg
+N:\Steam\LumaEmu
+N:\Steam\Revolution
+N:\Steam\SSE
+N:\Steam\Steam.Stub.Patcher.32-bit.64-bit.Feb.8.2016-Voksi.7z
+N:\Steam\SteamEmu
+N:\Steam\Steamless
+N:\Steam\SteamLiteXP
+N:\Steam\Goldberg\goldberggui-0.1.2.zip
+N:\Steam\Goldberg\Newer versions may not work on Vista notificed 5-21-2022.txt
+N:\Steam\Goldberg\Old
+N:\Steam\Goldberg\Other
+N:\Steam\Goldberg\Vista+
+N:\Steam\Goldberg\XP
+N:\Steam\Goldberg\Old\2000 (BWC)
+N:\Steam\Goldberg\Old\Goldberg_Lan_Steam_Emu_master--50a6601f.zip
+N:\Steam\Goldberg\Old\Goldberg_Lan_Steam_Emu_master--82eaf4f6.zip
+N:\Steam\Goldberg\Old\Latest
+N:\Steam\Goldberg\Old\Oldest
+N:\Steam\Goldberg\Old\steam_api.dll
+N:\Steam\Goldberg\Old\steam_api64.dll
+N:\Steam\Goldberg\Old\XP
+N:\Steam\Goldberg\Old\2000 (BWC)\Readnow.txt
+N:\Steam\Goldberg\Old\Latest\Borderlands 3
+N:\Steam\Goldberg\Old\Latest\Borderlands 3\Goldberg_Lan_Steam_Emu_master--2e1c24df.zip
+N:\Steam\Goldberg\Old\Oldest\Goldberg_Lan_Steam_Emu_master--ee4722cb.zip
+N:\Steam\Goldberg\Old\Oldest\Goldberg_Lan_Steam_Emu_v0.1.7.zip
+N:\Steam\Goldberg\Old\Oldest\SteamInterfacesDetector.exe
+N:\Steam\Goldberg\Old\XP\OneCoreAPI
+N:\Steam\Goldberg\Old\XP\Readnow.txt
+N:\Steam\Goldberg\Old\XP\XomPie
+N:\Steam\Goldberg\Old\XP\OneCoreAPI\32bit
+N:\Steam\Goldberg\Old\XP\OneCoreAPI\64bit
+N:\Steam\Goldberg\Old\XP\OneCoreAPI\32bit\ws2_32.dll
+N:\Steam\Goldberg\Old\XP\OneCoreAPI\32bit\ws2_base.dll
+N:\Steam\Goldberg\Old\XP\OneCoreAPI\64bit\ws2_32.dll
+N:\Steam\Goldberg\Old\XP\OneCoreAPI\64bit\ws2_base.dll
+N:\Steam\Goldberg\Old\XP\XomPie\steam_api.dll
+N:\Steam\Goldberg\Old\XP\XomPie\ws2_xp.dll
+N:\Steam\Goldberg\Other\Borderlands 3
+N:\Steam\Goldberg\Other\Test goldberg
+N:\Steam\Goldberg\Other\Test with non-working steam games
+N:\Steam\Goldberg\Other\Borderlands 3\ColdClientLoader.ini
+N:\Steam\Goldberg\Other\Borderlands 3\Readme.txt
+N:\Steam\Goldberg\Other\Borderlands 3\steamclient.dll
+N:\Steam\Goldberg\Other\Borderlands 3\steamclient64.dll
+N:\Steam\Goldberg\Other\Borderlands 3\steamclient_loader.exe
+N:\Steam\Goldberg\Other\Borderlands 3\steam_settings
+N:\Steam\Goldberg\Other\Borderlands 3\steam_settings\force_account_name.txt
+N:\Steam\Goldberg\Other\Borderlands 3\steam_settings\force_steamid.txt
+N:\Steam\Goldberg\Other\Test goldberg\Goldberg_steamclient_emu_with_patched_SSE_loaders.7z
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\ColdClientLoader.ini
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\Readme.txt
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\steamclient.dll
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\steamclient64.dll
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\steamclient_loader.exe
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\steam_settings
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\steam_settings\force_account_name.txt
+N:\Steam\Goldberg\Other\Test with non-working steam games\Goldberg\steam_settings\force_steamid.txt
+N:\Steam\Goldberg\Vista+\Goldberg_Lan_Steam_Emu_master--802d8bcc.zip
+N:\Steam\Goldberg\Vista+\Old
+N:\Steam\Goldberg\Vista+\Old\Goldberg_Lan_Steam_Emu_master--5533a9d5.zip
+N:\Steam\Goldberg\Vista+\Old\Goldberg_Lan_Steam_Emu_master--d8bcb11e.zip
+N:\Steam\Goldberg\XP\OneCoreAPI
+N:\Steam\Goldberg\XP\XP fork
+N:\Steam\Goldberg\XP\OneCoreAPI\steam_api.dll
+N:\Steam\Goldberg\XP\OneCoreAPI\ws2_32.dll
+N:\Steam\Goldberg\XP\OneCoreAPI\ws2_base.dll
+N:\Steam\Goldberg\XP\XP fork\goldberg_emulator_v0.2.3_xp_bin.zip
+N:\Steam\Goldberg\XP\XP fork\link.txt
+N:\Steam\Goldberg\XP\XP fork\winxp-goldberg-emulator-v0.2.3xp-pre1.zip
+N:\Steam\LumaEmu\2000 (BWC)
+N:\Steam\LumaEmu\Old
+N:\Steam\LumaEmu\Vista+
+N:\Steam\LumaEmu\2000 (BWC)\LumaEmu-1.7.2-Steam006.rar
+N:\Steam\LumaEmu\Old\LumaCEG_1.2.2-Steam006.rar
+N:\Steam\LumaEmu\Old\LumaEmu-1.1.7-Steam006.rar
+N:\Steam\LumaEmu\Old\LumaEmu-1.5.1-Steam006.rar
+N:\Steam\LumaEmu\Old\LumaEmu-1.7.2-Steam006.rar
+N:\Steam\LumaEmu\Old\LumaEmu-1.9.7-Steam006.rar
+N:\Steam\LumaEmu\Old\LumaEmu_CEG_Plugin_x64.rar
+N:\Steam\LumaEmu\Old\LumaEmu_CEG_Plugin_x86.rar
+N:\Steam\LumaEmu\Old\OLD
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\LumaEmu.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\SourceEngineLauncher.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x64
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x86
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\ClientRegistry.blob
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\msvcp120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\msvcr120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\NEW steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\Steam.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#1 Rename old steam_api to ValveAPI
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\msvcp120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\msvcr120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\steam_api.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x64\steamclient64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x64\steam_api64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x86\ClientRegistry.blob
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x86\Steam.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x86\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x86\steam_api.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.1.7-Steam006\x86\VAC2.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\LumaEmu.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\SourceEngineLauncher.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\SourceEngineLauncher_x64.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Steam2WrapperLauncher.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Steam2WrapperLauncher_x64.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x64
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\ClientRegistry.blob
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\msvcp120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\msvcr120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\NEW steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\Steam.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES HAVE STEAM.DLL THEN\zlib1.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#1 Rename old steam_api to ValveAPI
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\msvcp120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\msvcr120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\steam_api.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\Copied\IF GAME DOES NOT HAVE STEAM.DLL THEN\#2 Copy files to game dir where exe is\steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x64\steamclient64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x64\steam_api64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86\Legacy
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86\steam_api - Copy.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86\steam_api.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86\Legacy\ClientRegistry.blob
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86\Legacy\Steam.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.5.1-Steam006\x86\Legacy\zlib1.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\LumaEmu.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\LumaGameLauncher_x64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\LumaGameLauncher_x64.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\LumaGameLauncher_x86.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\LumaGameLauncher_x86.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x64
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\Legacy
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\LumaEmu.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\LumaGameLauncher_x64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\LumaGameLauncher_x64.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\NEW steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\steamclient64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\Legacy\steam_api64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#1 Rename old steam_api to ValveAPI
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#2 Copy files to game dir where exe is
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#2 Copy files to game dir where exe is\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#2 Copy files to game dir where exe is\msvcp120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#2 Copy files to game dir where exe is\msvcr120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#2 Copy files to game dir where exe is\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#2 Copy files to game dir where exe is\steam_api.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x64\OLD\#2 Copy files to game dir where exe is\steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\Legacy
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\LumaEmu.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\LumaGameLauncher_x86.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\LumaGameLauncher_x86.exe
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\NEW steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\Legacy\Steam2
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\Legacy\steam_api.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\Legacy\Steam2\ClientRegistry.blob
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\Legacy\Steam2\Steam.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\Legacy\Steam2\zlib1.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\ClientRegistry.blob
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\LumaEmu.ini
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\msvcp120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\msvcr120.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\NEW steam_appid.txt
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\Steam.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\Copied\x86\old\zlib1.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x64\Legacy
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x64\steamclient64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x64\Legacy\steam_api64.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86\Legacy
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86\steamclient.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86\Legacy\Steam2
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86\Legacy\steam_api.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86\Legacy\Steam2\ClientRegistry.blob
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86\Legacy\Steam2\Steam.dll
+N:\Steam\LumaEmu\Old\OLD\LumaEmu-1.7.2-Steam006\x86\Legacy\Steam2\zlib1.dll
+N:\Steam\LumaEmu\Vista+\LumaEmu-1.9.7-Steam006.rar
+N:\Steam\LumaEmu\Vista+\Readnow.txt
+N:\Steam\Revolution\98-ME (KernelEX) - XP+
+N:\Steam\Revolution\Untested
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\Revolution Emulator
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\ClientRegistry.blob
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\rev.ini
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\Old
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\Readnow.txt
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\rev
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\Old\rev.ini
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\Old\Steam.dll
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\Old\steamclient.dll
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\rev\rev.ini
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\rev\Steam.dll
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\HL on 9x\rev\steamclient.dll
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\Modified
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\ORIG
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\Modified\2
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\Modified\rev.ini
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\Modified\revLoader.exe
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\Modified\Steam.dll
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\Modified\steamclient.dll
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\Modified\2\steamclient.dll
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\OLD\Revolution Loader\ORIG\revLoader_v2_2_dec_2010.rar
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\Revolution Emulator\Other
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\Revolution Emulator\RevCrew_win_9.85_18032011.7z
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\Revolution Emulator\Other\link.txt
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\Revolution Emulator\Other\Readnow.txt
+N:\Steam\Revolution\98-ME (KernelEX) - XP+\Revolution Emulator\Other\revemu_09.08.2020.zip
+N:\Steam\Revolution\Untested\link.txt
+N:\Steam\Revolution\Untested\revemu_18.02.2022.zip
+N:\Steam\SSE\98-ME (KernelEX)
+N:\Steam\SSE\XP+
+N:\Steam\SSE\98-ME (KernelEX)\Untested
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX
+N:\Steam\SSE\98-ME (KernelEX)\Untested\MSVCR100-MSVCP100-98-ME.7z
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.0
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.9
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu.ini
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\1
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\1\KernelEx 4.5.2016.17.exe
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\Read.txt
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\API-MS-Win.reg
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\ApiHook.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\ApiLog.exe
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\CORE.20i
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\Core.ini
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\KernelEx.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\Kexbasen.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\Kexbasen_19_apis.txt
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\kexbases.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\kexbases.map
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\Kexbases_19_apis.txt
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\KexCOM.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\LZDLL.reg
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\LZDLL_ME.reg
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\sheet.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\Verify.exe
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\version.c
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\VKrnlEx.vxd
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\_apilist.20e.7z
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\_kernel32_apilist.c
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\_kernel32_apilist.h
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\_ntdll_apilist.c
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\_ntdll_apilist.h
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\_other_apilist.c
+N:\Steam\SSE\98-ME (KernelEX)\Untested\KernelEX\2\18-22\_other_apilist.h
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.0\SmartSteamEmu.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.0\SmartSteamEmu.ini
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.0\SmartSteamEmu.txt
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.0\SmartSteamLoader.exe
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.9\SmartSteamEmu
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.9\SmartSteamEmu.dll
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.9\SmartSteamEmu.ini
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.9\SmartSteamEmu.txt
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.9\SmartSteamLoader.exe
+N:\Steam\SSE\98-ME (KernelEX)\Untested\SmartSteamEmu v1.0.9\SmartSteamEmu\avatar.png
+N:\Steam\SSE\XP+\Other
+N:\Steam\SSE\XP+\Readnow.txt
+N:\Steam\SSE\XP+\SSE
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn
+N:\Steam\SSE\XP+\Other\2000
+N:\Steam\SSE\XP+\Other\Other
+N:\Steam\SSE\XP+\Other\2000\normaliz.dll
+N:\Steam\SSE\XP+\Other\Other\ComfyLauncher_SSE143_Reborn.rar
+N:\Steam\SSE\XP+\Other\Other\SmartSteamEmu143_and_Reborn_Client_1.46.1_release.rar
+N:\Steam\SSE\XP+\Other\Other\SSE Comfy Launcher Reborn.zip
+N:\Steam\SSE\XP+\Other\Other\SSELauncher.zip
+N:\Steam\SSE\XP+\SSE\Original
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient
+N:\Steam\SSE\XP+\SSE\SmartSteamEmu.dll
+N:\Steam\SSE\XP+\SSE\SmartSteamEmu.ini
+N:\Steam\SSE\XP+\SSE\SmartSteamLoader.exe
+N:\Steam\SSE\XP+\SSE\SmartSteamLoader.exe.colors
+N:\Steam\SSE\XP+\SSE\Original\SmartSteamEmu143.7z
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SSELauncher.exe
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu.dll
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu.ini
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu.txt
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu64.dll
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamLoader.exe
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamLoader_x64.exe
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\steamclient.dll
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\steamclient64.dll
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\218620
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\620
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\730
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\avatar.png
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\Readme.txt
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\218620\inventory.bin
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\218620\item_schema.bin
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\620\items.bin
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Common\730\items.bin
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\SSEFirewall.dll
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\SSEFirewall.ini
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\SSEFirewall64.dll
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\x64
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\x86
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\Language.ini
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\message.wav
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\screenshot.wav
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\x64\SSEOverlay.dll
+N:\Steam\SSE\XP+\SSE\Original + Comfy Steamclient\SmartSteamEmu143\SmartSteamEmu\SmartSteamEmu\Plugins\x86\SSEOverlay.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\avatar.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\base.xml
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\DarkUI.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Images
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SSELauncher.exe
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Al Gore's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Amy.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Barbados Slim.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Bender.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Bigfoot.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Bob Barker.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Brain Spawn.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Bubblegum Tate.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Calculon.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Clamps.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Colleen O'Hallahan.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Countess Delaroca.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Cubert.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\David Cohen's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\David Duchovny's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Dennis Rodman.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\DevilBot.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Downgraded Bender.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Dr. Ogden Wernstrom.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Elzar.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Fat Bot.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Fry.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Futurama-PNG-Image-45395.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\George Takei's head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Grand Preistess.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Gunther.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Head Scammer.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Hedionism Bot.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Hermes.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Hypnotoad.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Igner.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Inez Wong.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\iZac.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Johnathan Frakes.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Kiff.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Larry.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Lars Fillmore.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Leela.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Leo Wong.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Leonard Nimoy's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Lucy Liu's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Lurr.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Malfunctioning Eddy.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Marv Albert's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Matt Groening.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\mom.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Morg.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Nibbler.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Nichelle Nichols.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Pamela Anderson.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Popplers Bucket Bonus.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Popplers Bucket Empty.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Richard Nixon's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Roberto.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Robo Fry.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Robot Elder No 3.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Scruffy.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Steamboat Bender.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Steamboat Fry.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Thumbs.db
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\URL.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Walter Koenig's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\William Shatner's Head.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Zapp.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Zoidburg - Baked.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Avatars\Zoidburg.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Images\-1.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Images\0.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\Images\480.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\launcher.ini
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu.ini
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu.txt
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu64.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamLoader.exe
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamLoader_x64.exe
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\steamclient.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\steamclient64.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\326410
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins_SSE
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\serverbrowser_hist.vdf
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\326410\inventory.bin
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\326410\inventory_ex.bin
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\326410\remote
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\326410\screenshots
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\326410\stats.bin
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\326410\ugc
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\218620
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\620
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\730
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\avatar.png
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\Readme.txt
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\218620\inventory.bin
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\218620\item_schema.bin
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\620\items.bin
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Common\730\items.bin
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay.ini
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\x64
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\x86
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\Language.ini
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\message.wav
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\screenshot.wav
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\achievements.db
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\0285b9ceb5cc7378d04b3905a0fb376509a0ddd0.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\11ced2f880779f0e458e1fcb92d43f20bd9acfbb.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\16bb7f11faff9a2db9b95f567649509ba5f2d30a.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\17853c243f8ca1e21da92a6d8d277afa21fb214a.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\2657719942445a4e9cd1e750e5a0ccb15eafaa1c.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\49ab9b67a530beb99b858d43f78d500766f7d8cd.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\4c8d7419fb05e54d70db2075ad6c9468f6da31f8.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\558be9b6e881702743bd12a2a1301c88338fc24f.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\6394ab385e8ffdc614b6a06e73efce9c8a2554a7.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\6755a66e9a2199e0adc9ac09140a5f92057fa43b.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\67d4fc31c50eea0747c4d5f5c5b01f2b5168e76f.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\67eed26b2a46e017620795e67194881c3258d77f.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\7cfa46c08e3b1ce7c17a7c416f4da81c64d29767.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\7fdea1a2bf59ff893fa488d73ed0e7782c67efd2.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\b8a67a7ab390db20951ebf597f944148b1433995.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\cacc91ce7b9cdececf0cca38c882773fc6a893bd.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\cdd819ddea745726c4dcdce1f6ac5bfc3f8492c3.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\246920\icon\f5277d84032add1397b8a4e33f6e2c208403b3fd.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\achievements.db
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\168d562b04065ef0df714c716bc26077a567a8c8.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\3123010fbc2aea9e28ffef30386b4dfa690229a3.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\320ff65cdf5c9e3b0ce351a3b160219cf61f417b.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\3501a48bc0ddb24d5d6521423264de5e57f06bd6.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\3756dc81819cea7377f115f15690a5b6ac1d8e6a.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\4c37adc6d6ce55721df2fbc39ba82c7152935d94.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\562a9bd91a9900d046c7aef10eaedce3d121b788.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\5d7006f1b8d7645a0815d4ba67b355a410323464.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\61a09e2de21db3bc54373471f4182d32c144d7b2.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\61d6512644b45eb5fdf32cf2bba016f8e14e4d93.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\637d4f299d1c4c44e9840d247e4e6de656b43fce.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\69faefcf13e264742eb06fe6acb6c91f43b90005.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\6f8dbd8af466f85c7b20d25f75d60301e0b0e834.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\ad705207ca71321862dcae01152152a7b8e9714a.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\b6a8ce39c6ed39f999b857c69b9c4170340392ec.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\c22bec17250e5e25372e3cfbdc073043de01c09b.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\SSEOverlay\326410\icon\c34f6606206d259497e907a0e07651280ce60818.jpg
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\x64\SSEFirewall.ini
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\x64\SSEFirewall64.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\x86\SSEFirewall.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins\x86\SSEFirewall.ini
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins_SSE\x64
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins_SSE\x86
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins_SSE\x64\SSEOverlay.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\SmartSteamEmu\Plugins_SSE\x86\SSEOverlay.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\ExamplePlugin.7z
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Steamless.exe
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Steamless.exe.config
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins\SharpDisasm.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins\Steamless.API.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins\Steamless.Unpacker.Variant20.x86.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins\Steamless.Unpacker.Variant30.x64.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins\Steamless.Unpacker.Variant30.x86.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins\Steamless.Unpacker.Variant31.x64.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\Steamless\Plugins\Steamless.Unpacker.Variant31.x86.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher\SmartSteamEmu
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher\_README_.txt
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher\SmartSteamEmu\Plugins
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher\SmartSteamEmu\Plugins\x64
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher\SmartSteamEmu\Plugins\x86
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher\SmartSteamEmu\Plugins\x64\StubDRM64.dll
+N:\Steam\SSE\XP+\SSE Comfy Launcher Reborn\SSE-Launcher\SmartSteamEmu\StubDRMPatcher\SmartSteamEmu\Plugins\x86\StubDRM32.dll
+N:\Steam\SteamEmu\2000
+N:\Steam\SteamEmu\XP+
+N:\Steam\SteamEmu\2000\steamemu v3.02
+N:\Steam\SteamEmu\2000\steamemu v3.02\hCUPa.txt.txt
+N:\Steam\SteamEmu\2000\steamemu v3.02\Steam.dll
+N:\Steam\SteamEmu\2000\steamemu v3.02\steamapps.ini
+N:\Steam\SteamEmu\2000\steamemu v3.02\steamemu.ini
+N:\Steam\SteamEmu\XP+\client.dll
+N:\Steam\SteamEmu\XP+\FriendsData.vdf
+N:\Steam\SteamEmu\XP+\hl2install.exe
+N:\Steam\SteamEmu\XP+\InGameDialogConfig.vdf
+N:\Steam\SteamEmu\XP+\MasterServers.vdf
+N:\Steam\SteamEmu\XP+\ServerBrowser.vdf
+N:\Steam\SteamEmu\XP+\steam.dll
+N:\Steam\SteamEmu\XP+\steamemu.ini
+N:\Steam\Steamless\Vista
+N:\Steam\Steamless\Vista\Old
+N:\Steam\Steamless\Vista\Steamless.v3.1.0.2.-.by.atom0s.zip
+N:\Steam\Steamless\Vista\Old\Steamless-3.1.0.0.zip
+N:\Steam\Steamless\Vista\Old\Steamless.v3.0.0.9.-.by.atom0s.7z
+N:\Steam\Steamless\Vista\Old\Steamless.v3.1.0.0.-.by.atom0s.zip
+N:\Steam\SteamLiteXP\Certs
+N:\Steam\SteamLiteXP\Readnow.txt
+N:\Steam\SteamLiteXP\SteamLiteXP_1.1.6-Steam006.zip
+N:\Steam\SteamLiteXP\SteamSetup.exe
+N:\Steam\SteamLiteXP\Certs\jveWB2Qg1Lt9yT5m3CYpZ8b8N4rH.rar
+N:\Ubisoft\Goldberg
+N:\Ubisoft\LumaPlay
+N:\Ubisoft\Goldberg\Goldberg uplay r2 Open Source v0.0.2.zip
+N:\Ubisoft\Goldberg\Old
+N:\Ubisoft\Goldberg\Read.txt
+N:\Ubisoft\Goldberg\Old\Goldberg uplay r2 Open Source v0.0.1.zip
+N:\Ubisoft\LumaPlay\Vista
+N:\Ubisoft\LumaPlay\XP
+N:\Ubisoft\LumaPlay\Vista\LumaPlay_2.2.6_x64-Steam006.rar
+N:\Ubisoft\LumaPlay\Vista\LumaPlay_2.2.6_x86-Steam006.rar
+N:\Ubisoft\LumaPlay\XP\LumaPlay_x64-Steam006.rar
+N:\Ubisoft\LumaPlay\XP\LumaPlay_x86-Steam006.rar
