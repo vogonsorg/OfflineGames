@@ -11,5 +11,6 @@ Some things on the list may not make sense for why they are on the list, I did n
 
 Online Xdelta patcher
 https://kotcrab.github.io/xdelta-wasm/
+
 Steamless
 https://github.com/atom0s/Steamless
