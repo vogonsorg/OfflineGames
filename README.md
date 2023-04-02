@@ -15,7 +15,7 @@ LAW AND PRECEDENT LINKS
 
 This repo currenly contains no software, just information so that you can play "your" purchased errr rented games offline "The way it's meant to be played" since the company you bought them from doesn't care since they already have your money and they know their "consumers" will just roll over and take it as well as being toxic to their fellow "consumers".
 
-DO NOT ASK WHERE TO DOWNLOAD "COMPLETE GAMES" OR ANY OTHER FILES INCLUDED WITH THE GAME. USE YOUR PHYSICAL MEDIA OR DOWNLOAD FROM THE ONLINE STORE.
+DO NOT ASK WHERE TO DOWNLOAD "COMPLETE GAMES" OR ANY OTHER FILES INCLUDED WITH THE GAME. DISTRIBUTION OF COPYRIGHTED CONTENT IS COPYRIGHT INFRINGMENT. USE YOUR PHYSICAL MEDIA OR DOWNLOAD FROM THE ONLINE STORE.
 
 TOOL LINKS
 
