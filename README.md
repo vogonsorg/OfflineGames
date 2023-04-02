@@ -15,7 +15,8 @@ This repo currenly contains no software, just information so that you can play "
 
 DO NOT ASK WHERE TO ACQUIRE CLEAN OR CRACKED VERSIONS OF GAMES.
 
-Some things on the list may not make sense for why they are on the list, I did not intend on uploading this list until I had things more organized  and cleaned up but Valve accelerated things so here we are. Do not assume that if an OS is listed that it is only compatible with that OS. If GOG games are listed do not assume they have DRM, etc etc.
+
+TOOL LINKS
 
 [Online Xdelta patcher](https://kotcrab.github.io/xdelta-wasm/)
 
