@@ -14,3 +14,15 @@ https://kotcrab.github.io/xdelta-wasm/
 
 Steamless
 https://github.com/atom0s/Steamless
+
+Goldberg Steam Emulator
+https://mr_goldberg.gitlab.io/goldberg_emulator/
+
+SmartSteamEmu (SSE)
+https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935
+
+Reborn SSE Comfy Launcher
+https://cs.rin.ru/forum/viewtopic.php?f=29&t=91948
+
+RevEmu
+https://cs.rin.ru/forum/viewtopic.php?f=29&t=30678
