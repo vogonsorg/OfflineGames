@@ -13,6 +13,10 @@ LAW AND PRECEDENT LINKS
 
 [Case 2:06-cv-02555-DGC Document 116](https://www.govinfo.gov/content/pkg/USCOURTS-azd-2_06-cv-02555/pdf/USCOURTS-azd-2_06-cv-02555-4.pdf)
 
+https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1187&context=dltr
+
+https://www.mosessinger.com/publications/court-avoids-absolutes-as-stream-ripping-service-runs-afoul-of-anti-circumvention-act
+
 This repo currenly contains no software, just information so that you can play "your" purchased errr rented games offline "The way it's meant to be played" since the company you bought them from doesn't care since they already have your money and they know their "consumers" will just roll over and take it as well as being toxic to their fellow "consumers".
 
 DO NOT ASK WHERE TO DOWNLOAD "COMPLETE GAMES" OR ANY OTHER FILES INCLUDED WITH THE GAME. DISTRIBUTION OF COPYRIGHTED CONTENT IS COPYRIGHT INFRINGMENT. USE YOUR PHYSICAL MEDIA OR DOWNLOAD FROM THE ONLINE STORE.
