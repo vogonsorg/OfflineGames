@@ -34,3 +34,5 @@ TOOL LINKS
 [Reborn SSE Comfy Launcher](https://cs.rin.ru/forum/viewtopic.php?f=29&t=91948)
 
 [RevEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=30678)
+
+[nemirtingas epic emu](https://gitlab.com/MasterScott/nemirtingas_epic_emu)
